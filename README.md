@@ -34,6 +34,7 @@ $ [sudo] pip install mac-app-factory
 │   └── Info.plist
 │   executable          # edit this file. shebang required
 │   <image>.png         # copy any png image
+│   reveal.sh           # helper for reveal folder from your IDE
 ```
 
 #### Scripts usage
